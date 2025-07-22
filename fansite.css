@@ -68,6 +68,9 @@ nav {
 #menu {
   display: none;
 }
+
+/* ------------------- main Page D'acceuil-------------------  */
+
 main {
   height: auto;
   background-image: linear-gradient(
@@ -158,6 +161,9 @@ main {
 .sect-2 div {
   padding: 15px;
 }
+
+/* ------------------footer----------------------- */
+
 footer {
   background-image: url(logo999Jw.jpeg);
   background-size: cover;
@@ -211,6 +217,9 @@ footer {
 .lien-foot li {
   padding-top: 20px;
 }
+
+/* ------------------Page evenement---------------------  */
+
 .all-vid a {
   color: #b5179e;
   text-decoration: none;
