@@ -285,3 +285,23 @@ footer {
   color: white;
   text-align: center;
 }
+.vid4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+.vid4 h1 {
+  font-size: 25px;
+  background: -webkit-linear-gradient(#833ab4, #fd1d1d, #fcb045);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+.vid4 p {
+  padding: 5px;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+}
